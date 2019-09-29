@@ -48,6 +48,11 @@ Installation instrutions and templates [can be found here](https://github.com/pi
 
 The instrutions for how to install SonarQube and the templates [can be found here](https://github.com/pittar/ocp-devops-setup/blob/master/full-install.md#start-sonarqube).
 
+### NextCloud: Bonus
+
+[NextCloud](https://nextcloud.com/) is an open source Drop Box alternative that you can deploy in your own data center or cloud environment.  During this proof of concept we also deployed NextCloud on OpenShift to see if it would satisfy a requirment that the team had for document collection.
+
+The installation instructions and template [can be found here](https://github.com/pittar/server/tree/b16.0.4#openshift-instructions).
 
 ## Pipeline Process
 
